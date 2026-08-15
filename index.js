@@ -1,3 +1,3 @@
-const estudiante = "Daniel Villega";
+const estudiante = " Villega";
 console.log(`Entorno preparado para ${estudiante}`);
 console.log("¡Comienza el curso de Node.js!");
